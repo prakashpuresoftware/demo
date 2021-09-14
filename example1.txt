@@ -1,1 +1,11 @@
 hi 
+
+prakash raj
+Prakash.R@PrakashR-LP MINGW64 ~/Desktop/git_practice/demo/demo (main)
+$ git branch -d my_branch
+Deleted branch my_branch (was eedc0ff).
+
+Prakash.R@PrakashR-LP MINGW64 ~/Desktop/git_practice/demo/demo (main)
+$ git branch -d my_branch
+Deleted branch my_branch (was eedc0ff).
+
