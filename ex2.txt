@@ -1,2 +1,6 @@
 sample txt
+<<<<<<< HEAD
 prakash
+=======
+dfjh
+>>>>>>> 0c65620dcaf3ef83d6c6f98e0ad0802b6c57c26f
